@@ -4,11 +4,7 @@
   "product_name": "RabbitMQ",
   "product_version": "3.11.0+rc.2.528.g865d533",
   "users": [],
-  "vhosts": [
-    {
-      "name": "/"
-    }
-  ],
+  "vhosts": [],
   "permissions": [],
   "topic_permissions": [],
   "parameters": [],
